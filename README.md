@@ -33,7 +33,7 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - You can get fonts from [Google Fonts](https://fonts.google.com/). You can use any fonts you like for the title.
 - Research how you can use google fonts in your HTML website!
 
-![Alt text](./images/screenshot.png)
+![challenge 1 output](./images/screenshot.png)
 ![Challenge 1 Output](./assets/challenge1-output.png)
 
 ## Challenge 2 - ATM Login Screen
@@ -58,8 +58,8 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - Learn how you **center** elements in css [here](https://www.better.dev/centering-things-with-css-flexbox)
 - To read more about `flexBox`, check [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - To add shadow easily, use [this website](https://html-css-js.com/css/generator/box-shadow/) that provides you with the shadow css code.
-  ![Alt text](./images/screenshot.png)
-  ![Challenge 1 Output](./assets/challenge2-output.png)
+  ![challenge 2 output](./images/screenshot.png)
+  ![Challenge 2 Output](./assets/challenge2-output.png)
 
 ## Challenge 3 - Account Balance Card
 
@@ -105,8 +105,8 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - You can use this [coolors](https://coolors.co/) to find colors that you like
 - Add `transition` property for smooth hover effects
 
-![Alt text](./images/screenshot.png)
-![Challenge 1 Output](./assets/challenge3-output.png)
+![challenge 3 output](./images/screenshot.png)
+![Challenge 3 Output](./assets/challenge3-output.png)
 
 ## Challenge 4 - Bank Branch Card
 
@@ -124,5 +124,5 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 4. Use `flexbox` for centering your card
 5. You will be using `position` in couple of things
 
-![Alt text](./images/screenshot.png)
-![Challenge 1 Output](./assets/challenge4-output.png)
+![challenge 4 output](./images/screenshot.png)
+![Challenge 4 Output](./assets/challenge4-output.png)
