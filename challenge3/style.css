@@ -1,0 +1,87 @@
+/* Challenge 3 - style.css (starter file) */
+.w3-bar.w3-black {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%) !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  height: 60px !important;
+  padding: 0 !important;
+}
+
+.w3-bar-item.w3-button {
+  background: transparent !important;
+  color: #f0f0f0 !important;
+  transition: all 0.3s ease !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  height: 60px !important;
+  line-height: 60px !important;
+  padding: 0 20px !important;
+  border: none !important;
+  text-decoration: none !important;
+}
+
+.w3-bar-item.w3-button:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  color: #ffffff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+}
+
+.w3-bar-item.w3-button:active {
+  transform: translateY(0);
+}
+
+/* Add your styles here to create an account balance card */
+
+body {
+  /* Add gradient background */
+}
+
+.account-container {
+  /* Use flexbox to center the card */
+}
+
+.account-card {
+  /* Style the main card - background, width, padding, border-radius, shadow */
+}
+
+.account-header h2 {
+  /* Style the main heading */
+}
+
+.account-number {
+  /* Style the account number */
+}
+
+.balance-section {
+  /* Style the balance container area */
+}
+
+.balance-label {
+  /* Style the "Available Balance" label */
+}
+
+.balance-amount {
+  /* Style the large balance number - make it big and green */
+}
+
+.quick-actions {
+  /* Layout the buttons using flexbox */
+}
+
+.action-btn {
+  /* Style all buttons - background, padding, border-radius, etc. */
+  /* Add hover effects with transition */
+}
+
+/* Optional: Different colors for different button types */
+.action-btn.transfer {
+  /* Purple color for transfer button */
+}
+
+.action-btn.deposit {
+  /* Green color for deposit button */
+}
+
+.action-btn.withdraw {
+  /* Red/orange color for withdraw button */
+}
