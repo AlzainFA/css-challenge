@@ -58,6 +58,8 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - Learn how you **center** elements in css [here](https://www.better.dev/centering-things-with-css-flexbox)
 - To read more about `flexBox`, check [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - To add shadow easily, use [this website](https://html-css-js.com/css/generator/box-shadow/) that provides you with the shadow css code.
+
+
   ![challenge 2 output](./images/screenshot.png)
   ![Challenge 2 Output](./assets/challenge2-output.png)
 
