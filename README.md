@@ -33,6 +33,9 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - You can get fonts from [Google Fonts](https://fonts.google.com/). You can use any fonts you like for the title.
 - Research how you can use google fonts in your HTML website!
 
+![Alt text](./images/screenshot.png)
+![Challenge 1 Output](./assets/challenge1-output.png)
+
 ## Challenge 2 - ATM Login Screen
 
 1. You will be adding your code in the `index.html` that is inside folder 2
@@ -55,6 +58,8 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - Learn how you **center** elements in css [here](https://www.better.dev/centering-things-with-css-flexbox)
 - To read more about `flexBox`, check [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - To add shadow easily, use [this website](https://html-css-js.com/css/generator/box-shadow/) that provides you with the shadow css code.
+  ![Alt text](./images/screenshot.png)
+  ![Challenge 1 Output](./assets/challenge2-output.png)
 
 ## Challenge 3 - Account Balance Card
 
@@ -100,6 +105,9 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 - You can use this [coolors](https://coolors.co/) to find colors that you like
 - Add `transition` property for smooth hover effects
 
+![Alt text](./images/screenshot.png)
+![Challenge 1 Output](./assets/challenge3-output.png)
+
 ## Challenge 4 - Bank Branch Card
 
 1. You don't need to touch `index.html` this time, just take a look of the classes that are assigned to each html element.
@@ -115,3 +123,6 @@ You are going to try to solve as much tasks as possible. It's a **Banking Stylin
 
 4. Use `flexbox` for centering your card
 5. You will be using `position` in couple of things
+
+![Alt text](./images/screenshot.png)
+![Challenge 1 Output](./assets/challenge4-output.png)
