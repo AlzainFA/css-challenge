@@ -3,17 +3,18 @@ body {
     display: flex ;
     flex-direction: column;
     justify-content: center;
-    align-items:center
+    align-items:center;
 
 }
 
+  
 .card-container{
 
     text-align: center;
     display: flex ;
     justify-content: center;
     margin: 15%;
-    
+
 
 
  }
@@ -35,9 +36,11 @@ body {
  }
 
  .bank-name{
+    font-family: sans-serif;
     text-align: left;
     color: aliceblue;
     font-size: 26px; 
+
 }
 
  .card-number{
