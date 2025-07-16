@@ -70,6 +70,8 @@ body {
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
   font-weight: bolder;
+  box-shadow: 0 0 10px rgba(80, 171, 255, 0.5); /* Blue shadow on focus */
+
 }
 
 .atm-screen p {
@@ -77,6 +79,7 @@ body {
   font-size:smaller;
   text-shadow: #2d2d2d;
   font-weight:lighter;
+
 }
 
 .input-group {
@@ -89,6 +92,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 10px;
+
 }
 
 
@@ -102,10 +106,13 @@ body {
   border-radius: 5px;
   align-items: center;
   text-align: center;
+  
 }
 
 
 .pin-input:focus {
+  box-shadow: 0 0 10px rgba(80, 171, 255, 0.5); /* Blue shadow on focus */
+  border: 2px solid rgb(255, 255, 255);
 }
 
 .enter-btn {
@@ -124,8 +131,10 @@ text-align: center;
 
 .enter-btn:hover {
   background-color: #8a2be2;
+
 }
 
 .enter-btn:active {
   background-color: #7a1b8f;
+
 }
