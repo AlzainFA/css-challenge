@@ -1,0 +1,75 @@
+body {
+    background-color:rgb(108, 92, 215) ;
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center
+
+}
+
+.card-container{
+
+    text-align: center;
+    display: flex ;
+    justify-content: center;
+    margin: 15%;
+    
+
+
+ }
+
+ .bank-card{
+    height: 250px;
+    width: 400px;
+    text-align: center;
+    display: flex ;
+    background-color:rgb(45, 45, 162);
+    color:aliceblue;
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+ }
+
+ .bank-name{
+    text-align: left;
+    color: aliceblue;
+    font-size: 26px; 
+}
+
+ .card-number{
+ 
+    text-align:center;
+    color: aliceblue;
+    font-size: 18px;
+    letter-spacing: 3px;
+
+ }
+
+ .card-bottom{
+
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+
+ }
+
+ .cardholder-name{
+
+    text-align:left;
+    color: aliceblue;
+    font-size: 16px;
+
+ }
+
+ .expiry-date{
+
+    text-align:right;
+    color: aliceblue;
+    font-size: 16px;
+
+ }
